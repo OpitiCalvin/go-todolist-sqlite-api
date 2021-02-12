@@ -6,5 +6,5 @@ This code is based on a guide and code by [Mohamad Fadhil](https://fadhilyaacob.
 
 
 #Contacts
-* [Email] - opiticalvin@gmail.com
-* [Website](https://opiticonsulting.com)
+* [Email](https://opiticonsulting.com) - opiticalvin@gmail.com
+* [Website](https://opiticonsulting.com) - https://opiticonsulting.com
